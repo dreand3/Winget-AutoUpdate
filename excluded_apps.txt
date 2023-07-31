@@ -9,3 +9,14 @@ Mozilla.Firefox.DeveloperEdition
 Mozilla.Firefox.ESR
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer.Host
+Anaconda.Anaconda3
+Anaconda.Miniconda3
+EpicGames.EpicGamesLauncher
+Valve.Steam
+Valve.SteamLink
+Valve.SteamCMD
+Discord.Discord
+Discord.Discord.PTB
+Discord.Discord.Development
+Discord.Discord.Canary
+ElectronicArts.EADesktop
