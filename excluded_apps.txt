@@ -22,3 +22,5 @@ Discord.Discord.Canary
 ElectronicArts.EADesktop
 Microsoft.DotNet.DesktopRuntime.7
 Microsoft.DotNet.SDK.7
+Microsoft.DotNet.DesktopRuntime.6
+Microsoft.DotNet.SDK.6
