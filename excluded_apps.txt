@@ -24,3 +24,4 @@ Microsoft.DotNet.DesktopRuntime.7
 Microsoft.DotNet.SDK.7
 Microsoft.DotNet.DesktopRuntime.6
 Microsoft.DotNet.SDK.6
+Mozilla.Thunderbird.Beta
