@@ -26,3 +26,4 @@ Microsoft.DotNet.DesktopRuntime.6
 Microsoft.DotNet.SDK.6
 Mozilla.Thunderbird.Beta
 Microsoft.OpenJDK.11
+Microsoft.VisualStudioCode
