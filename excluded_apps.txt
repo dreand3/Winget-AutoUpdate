@@ -30,4 +30,5 @@ Microsoft.VisualStudioCode
 Microsoft.VisualStudio
 Microsoft.PowerShell
 Microsoft.VCRedist.2013.x64
+Microsoft.VCRedist.2013.x86
 Microsoft.VCRedist.2015+.x86
