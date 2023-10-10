@@ -29,3 +29,4 @@ Microsoft.OpenJDK.11
 Microsoft.VisualStudioCode
 Microsoft.VisualStudio
 Microsoft.PowerShell
+Microsoft.VCRedist
