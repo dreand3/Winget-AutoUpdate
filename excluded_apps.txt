@@ -29,4 +29,5 @@ Microsoft.OpenJDK.11
 Microsoft.VisualStudioCode
 Microsoft.VisualStudio
 Microsoft.PowerShell
-Microsoft.VCRedist
+Microsoft.VCRedist.2013.x64
+Microsoft.VCRedist.2015+.x86
