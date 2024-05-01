@@ -3,8 +3,7 @@ Microsoft.Edge
 Microsoft.EdgeWebView2Runtime
 Microsoft.Office
 Microsoft.OneDrive
-Microsoft.Teams
-Microsoft.Teams.Classic
+Microsoft.Teams*
 Mozilla.Firefox*
 TeamViewer.TeamViewer*
 Microsoft.RemoteDesktopClient
