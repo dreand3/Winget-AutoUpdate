@@ -7,8 +7,6 @@ Microsoft.Teams
 Mozilla.Firefox
 Mozilla.Firefox.DeveloperEdition
 Mozilla.Firefox.ESR
-TeamViewer.TeamViewer
-TeamViewer.TeamViewer.Host
 Anaconda.Anaconda3
 Anaconda.Miniconda3
 EpicGames.EpicGamesLauncher
@@ -20,17 +18,4 @@ Discord.Discord.PTB
 Discord.Discord.Development
 Discord.Discord.Canary
 ElectronicArts.EADesktop
-Microsoft.DotNet.DesktopRuntime.7
-Microsoft.DotNet.SDK.7
-Microsoft.DotNet.DesktopRuntime.6
-Microsoft.DotNet.SDK.6
 Mozilla.Thunderbird.Beta
-Microsoft.OpenJDK.11
-Microsoft.VisualStudioCode
-Microsoft.VisualStudio
-Microsoft.PowerShell
-Microsoft.VCRedist.2013.x64
-Microsoft.VCRedist.2013.x86
-Microsoft.VCRedist.2015+.x86
-Microsoft.WindowsAppRuntime.1.3
-Microsoft.WindowsTerminal
