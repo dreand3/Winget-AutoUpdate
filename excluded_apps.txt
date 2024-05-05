@@ -4,7 +4,7 @@ Microsoft.EdgeWebView2Runtime
 Microsoft.Office
 Microsoft.OneDrive
 Microsoft.Teams*
-Mozilla.Firefox*
+Mozilla*
 TeamViewer.TeamViewer*
 Microsoft.RemoteDesktopClient
 Anaconda*
@@ -12,4 +12,3 @@ EpicGames*
 Valve*
 Discord*
 ElectronicArts*
-Mozilla.Thunderbird*
