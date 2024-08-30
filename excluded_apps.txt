@@ -1,7 +1,6 @@
 Google.Chrome
 Microsoft.Edge
-Microsoft.EdgeWebView2Runtime
-Microsoft.Office
+wingMicrosoft.Office
 Microsoft.OneDrive
 Microsoft.Teams*
 Mozilla*
