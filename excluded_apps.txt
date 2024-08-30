@@ -1,6 +1,6 @@
 Google.Chrome
 Microsoft.Edge
-wingMicrosoft.Office
+Microsoft.Office
 Microsoft.OneDrive
 Microsoft.Teams*
 Mozilla*
